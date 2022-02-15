@@ -1,0 +1,5 @@
+Well done with lab!
+Make sure you have single file for homework to avoid confusion!
+
+lab: 100
+hw: 100
