@@ -1,0 +1,5 @@
+In homework, many cells returned incorrect results. 
+Make sure you dont have any errors in the ipynb file that you submit!
+
+hw: 70
+lab: 100
