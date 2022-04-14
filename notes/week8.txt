@@ -1,0 +1,5 @@
+Duration is expected to be in years. 
+
+
+hw: 90
+lab: 100
